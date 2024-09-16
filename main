@@ -1,0 +1,7 @@
+echo "# ThuctapCSN-12" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/NguyenManh12/ThuctapCSN-12.git
+git push -u origin main
